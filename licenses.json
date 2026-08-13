@@ -23,6 +23,14 @@
       "active": true,
       "expires": "2026-12-31",
       "hwid_xor": "v-Sy8KXT"
+    },
+    {
+      "key": "ABCD-EFGH-IJKL-MNOP",
+      "app": "noctua-gta",
+      "status": "active",
+      "active": true,
+      "expires": "2026-08-18",
+      "hwid_xor": "OiowIFgpeiEz"
     }
   ]
 }
