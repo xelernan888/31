@@ -7,6 +7,14 @@
       "status": "active",
       "active": true,
       "expires": "2026-12-31"
+    },
+    {
+      "key": "3KW1-654P-JD6G-CB23",
+      "app": "noctua-gta",
+      "status": "active",
+      "active": true,
+      "expires": "2026-09-12",
+      "hwid_xor": "JjgqMCqxtbjgNihiOSs3fw=="
     }
   ]
 }
