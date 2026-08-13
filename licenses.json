@@ -1,9 +1,9 @@
 {
   "licenses": [
     {
-      "key": "XXXX-XXXX-XXXX-XXXX",
+      "key": "XXXX-8800-XXXX-XXXX",
       "app": "noctua-gta",
-      "hwid": "HWID_ПОЛЬЗОВАТЕЛЯ",
+      "hwid": "86DC4DDA035AF780",
       "status": "active",
       "active": true,
       "expires": "2026-12-31"
